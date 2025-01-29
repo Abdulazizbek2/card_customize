@@ -3,8 +3,10 @@
 A new Flutter project.
 
 
-App Screenshoot
+App Screenshoots
 
+
+![github.com/Abdulazizbek2/card_customize/assets/3.png](https://github.com/Abdulazizbek2/card_customize/blob/main/assets/3.png)
 
 ![github.com/Abdulazizbek2/card_customize/assets/1.png](https://github.com/Abdulazizbek2/card_customize/blob/main/assets/1.png)
 
