@@ -2,9 +2,15 @@
 
 A new Flutter project.
 
+
+App Screenshoot
+<img width="426" alt="image" src="https://github.com/Abdulazizbek2/card_customize/assets/1.png">
+<img width="301" alt="image" src="https://github.com/Abdulazizbek2/card_customize/assets/2.png">
+
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<!-- This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -13,4 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
