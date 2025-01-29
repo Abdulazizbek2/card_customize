@@ -4,8 +4,11 @@ A new Flutter project.
 
 
 App Screenshoot
-<img width="426" alt="image" src="https://github.com/Abdulazizbek2/card_customize/assets/1.png">
-<img width="301" alt="image" src="https://github.com/Abdulazizbek2/card_customize/assets/2.png">
+
+
+"https://github.com/Abdulazizbek2/card_customize/assets/1.png"
+
+"https://github.com/Abdulazizbek2/card_customize/assets/2.png"
 
 
 ## Getting Started
