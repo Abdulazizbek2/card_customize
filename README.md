@@ -6,7 +6,7 @@ A new Flutter project.
 App Screenshoot
 
 
-"https://github.com/Abdulazizbek2/card_customize/assets/1.png"
+"https://![github.com/Abdulazizbek2/card_customize/assets/1.png](https://github.com/Abdulazizbek2/card_customize/blob/main/assets/1.png)"
 
 "https://github.com/Abdulazizbek2/card_customize/assets/2.png"
 
